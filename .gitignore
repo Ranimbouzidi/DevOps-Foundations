@@ -1,0 +1,6 @@
+__pycache__/
+*.pyc
+.venv/
+data/
+scrape_plan.json
+worker_plan.json
